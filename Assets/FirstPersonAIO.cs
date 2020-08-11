@@ -111,6 +111,7 @@ public class FirstPersonAIO : MonoBehaviour {
     public bool walkByDefault = true;
     public float walkSpeed = 4f;
     public KeyCode sprintKey = KeyCode.LeftShift;
+    public KeyCode useKey = KeyCode.E;
     public float sprintSpeed = 8f;
     public float jumpPower = 5f;
     public bool canJump = true;
